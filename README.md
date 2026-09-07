@@ -1,6 +1,6 @@
 # AssetControl
 
-VB6 working copy of `AssetControl` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Asset Control. Output: `Asset Control.exe`. `VersionCompanyName`: Dave Robinson. Contains 2 project files.
+VB6 Asset Control (`Asset Control.exe`) that looks up assets by barcode via ADO (description, type, category, serial) against an Access-style Assets database; includes a V2 tree. Open either `Asset Control.vbp` in the VB6 IDE.
 
 **Source last updated:** 2005-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,8 +10,8 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `AssetControl` (`Asset Control.vbp`) | VB6 | WinForms exe | Asset Control |
-| `AssetControl` (`V2/Asset Control.vbp`) | VB6 | WinForms exe | Asset Control |
+| `AssetControl` (`Asset Control.vbp`) | VB6 | WinForms exe | Barcode asset lookup via ADO |
+| `AssetControl` (`V2/Asset Control.vbp`) | VB6 | WinForms exe | V2 asset control (MDB + browse forms) |
 
 ## How to open
 
